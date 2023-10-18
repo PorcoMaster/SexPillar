@@ -31,6 +31,10 @@ Heatinsert i used was from this kit, if you are using a different one please go 
 
 https://www.amazon.com/Swpeet-Embedment-Hydraulic-Injection-Assortment/dp/B08YYGRCBG/ref=sr_1_3?crid=N201IKVAH3JM&keywords=swpeet+300pcs+5+values+m2+m3+m4+m5+m6+female+tampered&qid=1697503901&sprefix=swpeet+300pc%2Caps%2C106&sr=8-3
 
+[Tutorial](https://github.com/PorcoMaster/SexPillar/blob/main/Images%20And%20Videos/SexPillar_v2.mp4)
+
+
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
