@@ -1,5 +1,5 @@
 # SexPillar
-SexPillar is a parametric endstop inspired by Unklicky, Sexbolt, &amp; Unklicky_z. Crafted in Fusion with clear annotations, it suits metallic plate printers with its magnetic base. Adaptable to any magnet, screw, wire, or heat insert. Optimized for auto_Z, easing nozzle adjustments.
+SexPillar is an advanced, fully parametric endstop, drawing inspiration from Unklicky, Sexbolt, and Unklicky_z. Crafted with meticulous attention to detail in Fusion, the design file encompasses a wide range of possibilities and is annotated with comments to ensure ease of use. Tailored specifically for printers with a metallic plate, it incorporates a robust magnet at its base. This magnetic feature not only ensures stability but also facilitates precise adjustments along the X and Y axes. Moreover, its adaptability shines, as it can accommodate any magnet, screw, wire, and heat insert. Primarily, SexPillar is optimized for use with an auto_Z macro, streamlining the calculation of nozzle offsets and babysteps.
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
