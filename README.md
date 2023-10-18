@@ -5,7 +5,7 @@ SexPillar is an advanced, fully parametric endstop, drawing inspiration from Unk
 
 List of Hardware
 
--20x5mm Magnet - 1 Units
+- 20x5mm Magnet - 1 Units
 
 -6x2mm Magnet - 2 Units
 
