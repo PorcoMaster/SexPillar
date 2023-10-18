@@ -22,7 +22,7 @@ List of Hardware
 
 Optional with putting LID, LID is completely Cosmestic
 
-- M2 Screw 6 MM - 2 Units
+- M2 Screw 6mm - 2 Units
 
 - M2 Heatinsert 3mm - 2 Units
 
