@@ -7,24 +7,24 @@ List of Hardware
 
 - 20x5mm Magnet - 1 Units
 
--6x2mm Magnet - 2 Units
+- 6x2mm Magnet - 2 Units
 
--Heatinsert M3x4mm - 1 Unit
+- Heatinsert M3x4mm - 1 Unit
 
--HeatInsert M3 5mm - 1 Unit
+- HeatInsert M3 5mm - 1 Unit
 
--M3 Screw 16mm - 1 Unit
+- M3 Screw 16mm - 1 Unit
 
--M3 Screw 6mm - 1 Unit
+- M3 Screw 6mm - 1 Unit
 
--M4 SexBolt - 1 Unit / bigger than 8mm without lid, bigger than 12 mm with lid
+- M4 SexBolt - 1 Unit / bigger than 8mm without lid, bigger than 12 mm with lid
 
 
 Optional with putting LID, LID is completely Cosmestic
 
--M2 Screw 6 MM - 2 Units
+- M2 Screw 6 MM - 2 Units
 
--M2 Heatinsert 3mm - 2 Units
+- M2 Heatinsert 3mm - 2 Units
 
 
 Heatinsert i used was from this kit, if you are using a different one please go into file and change sizes
