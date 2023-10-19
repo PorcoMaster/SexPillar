@@ -35,7 +35,7 @@ Optional with putting LID, LID is completely Cosmestic
 [Heatinsert](https://www.amazon.com/Swpeet-Embedment-Hydraulic-Injection-Assortment/dp/B08YYGRCBG/ref=sr_1_3?crid=N201IKVAH3JM&keywords=swpeet+300pcs+5+values+m2+m3+m4+m5+m6+female+tampered&qid=1697503901&sprefix=swpeet+300pc%2Caps%2C106&sr=8-3) i used was from this kit, if you are using a different one please go into file and change sizes
 
 
-#Parameters
+# Parameters
 
 - **BMD (Big Magnet Diameter):** 
   - 20 mm
