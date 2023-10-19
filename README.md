@@ -6,6 +6,8 @@ This bill of materials is based on what I had readily available. While the assoc
 
 PS: if you do change Tube Height, remember to also adjust PinHoleHeight
 
+In the Fusion file, all elements are parametric. However, the hardware is primarily for initial visualization. When adjusting parameters, the hardware may not align with all parts. For a clearer view when modifying parameters, it's recommended to hide all hardware.
+
 # General Bill of Materials (BOM)
 
 List of Hardware
