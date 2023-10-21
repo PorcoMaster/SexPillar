@@ -162,23 +162,6 @@ Optional with putting LID, LID is completely Cosmestic
 ![Tutorial](https://github.com/PorcoMaster/SexPillar/blob/main/Images%20And%20Videos/SexPillar_v2%20(2).gif)
 ![Real](https://github.com/PorcoMaster/SexPillar/blob/main/Images%20And%20Videos/Picture.jpeg)
 
-
-
-
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
-
-
-
 # Parameters MOD Bracket 
 
 - DFM = Distance from middle
@@ -196,5 +179,17 @@ Keep in mind that you just need to make visible the bracket that you want then y
 ![SexPillar](https://github.com/PorcoMaster/SexPillar/blob/main/SexPillar%20MOD%20Bracket/Vertical%20Bracket%20V1.png)
 ![SexPillar](https://github.com/PorcoMaster/SexPillar/blob/main/SexPillar%20MOD%20Bracket/Vertical%20Bracket%20v.png)
 ![SexPillar](https://github.com/PorcoMaster/SexPillar/blob/main/SexPillar%20MOD%20Bracket/Vertical%20Bracket%20v3.png)
+
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 
