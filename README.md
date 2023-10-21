@@ -8,6 +8,13 @@ PS: if you do change Tube Height, remember to also adjust PinHoleHeight
 
 In the Fusion file, all elements are parametric. However, the hardware is primarily for initial visualization. When adjusting parameters, the hardware may not align with all parts. For a clearer view when modifying parameters, it's recommended to hide all hardware.
 
+# Update 10/20/2023
+
+Added a bracket version for using with T-slots and any kind of screws to attach it, also totally Parametric 
+
+Information and pictures of added parameters in the end
+
+
 # General Bill of Materials (BOM)
 
 List of Hardware
@@ -168,3 +175,26 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+
+
+
+# Parameters MOD Bracket 
+
+- DFM = Distance from middle
+- DFG = Distance from Ground
+- LB = Lenght of Bracket
+- HB = Height of Bracket
+- AB = Angle of Bracket
+- DFS = Distance of Brackets
+- SBS = Screw Bracket Size
+
+Keep in mind that you just need to make visible the bracket that you want then you go to component and save as mesh, this parameters change both options. there is a horizontal and vertical brackets, and they can change angles
+
+![SexPillar](https://github.com/PorcoMaster/SexPillar/blob/main/SexPillar%20MOD%20Bracket/Horizontal%20Bracket%20V2.png)
+![SexPillar](https://github.com/PorcoMaster/SexPillar/blob/main/SexPillar%20MOD%20Bracket/Horizontal%20Bracket.png)
+![SexPillar](https://github.com/PorcoMaster/SexPillar/blob/main/SexPillar%20MOD%20Bracket/Vertical%20Bracket%20V1.png)
+![SexPillar](https://github.com/PorcoMaster/SexPillar/blob/main/SexPillar%20MOD%20Bracket/Vertical%20Bracket%20v.png)
+![SexPillar](https://github.com/PorcoMaster/SexPillar/blob/main/SexPillar%20MOD%20Bracket/Vertical%20Bracket%20v3.png)
+
+
