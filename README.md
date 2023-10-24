@@ -20,10 +20,10 @@ I was unable to find a program or program myself to babystep a bedslinger with s
 
 right now i just modified my printer.cfg and i am using as a button, in my case scenario that i am always tweaking my printers i was missing the option to move my printer without having to Home or g28. 
 
-so i just added a set_kinektic, you could use as anything i think even as an emergecy button might work. 
+so i just added a SET_KINEMATIC_POSITION, you could use as anything i think even as an emergecy button might work. 
 
 this is my code in case you want to do something, please be carefull set_kinematic is dangerous if you don't know what you are doing. 
-also set_kinematic just works if force_move is not set to true.
+also SET_KINEMATIC_POSITION just works if force_move is set to true.
 ```
 [gcode_button my_gcode_button]
 pin: ^secondary:PA6
