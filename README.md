@@ -22,7 +22,7 @@ right now i just modified my printer.cfg and i am using as a button, in my case 
 
 so i just added a SET_KINEMATIC_POSITION, you could use as anything i think even as an emergecy button might work. 
 
-this is my code in case you want to do something, please be carefull set_kinematic is dangerous if you don't know what you are doing. 
+this is my code in case you want to do something, please be carefull SET_KINEMATIC_POSITION is dangerous if you don't know what you are doing. 
 also SET_KINEMATIC_POSITION just works if force_move is set to true.
 ```
 [gcode_button my_gcode_button]
