@@ -14,6 +14,24 @@ Added a bracket version for using with T-slots and any kind of screws to attach 
 
 Information and pictures of added parameters in the end
 
+# Update 10/24/2023
+
+I was unable to find a program or program myself to babystep a bedslinger with sexpillar :/..., but i tested it and it works wonders as an endstop, so i am sure a lot of people will find use on it 
+
+right now i just modified my printer.cfg and i am using as a button, in my case scenario that i am always tweaking my printers i was missing the option to move my printer without having to Home or g28. 
+
+so i just added a set_kinektic, you could use as anything i think even as an emergecy button might work. 
+
+this is my code in case you want to do something, please be carefull set_kinematic is dangerous if you don't know what you are doing. 
+also set_kinematic just works if force_move is not set to true.
+```
+[gcode_button my_gcode_button]
+pin: ^secondary:PA6
+press_gcode:
+    M118 Please home as soon as possible
+    M117 Please home as soon as possible
+    SET_KINEMATIC_POSITION X=150 Y=150 Z=0
+```
 
 # General Bill of Materials (BOM)
 
